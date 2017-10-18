@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/home/petr/.android/build-cache/7131fcf21a4af7d67b4d7ba95fa0c83d366e35ba/output/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
         "merged": "/home/petr/AndroidStudioProjects/WifiLocator/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
         "source": "/home/petr/.android/build-cache/7131fcf21a4af7d67b4d7ba95fa0c83d366e35ba/output/res/drawable-v23/abc_control_background_material.xml"
     }

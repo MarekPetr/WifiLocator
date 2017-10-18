@@ -22,13 +22,13 @@
      android:id="@+id/colored_bar"
      android:layout_width="match_parent"
      android:layout_height="35dp"
-     android:background="#3eda6a" />
+     android:background="@color/colorGreen" />
 
     <TextView
      android:layout_width="match_parent"
      android:layout_height="37dp"
      android:gravity="center"
-     android:text="Mapu přiblížíte dvěma prsty"
-     android:textColor="#ffffff"/>
+     android:text="@string/zoom_tip"
+     android:textColor="@color/colorWhite"/>
 
 </RelativeLayout>

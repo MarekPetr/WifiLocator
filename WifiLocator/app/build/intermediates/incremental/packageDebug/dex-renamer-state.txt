@@ -1,7 +1,7 @@
-#Wed Oct 18 10:49:01 CEST 2017
-base.0=/home/petr/AndroidStudioProjects/WifiLocator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ae8acaaad7fbb4c7905cd57d15b9e6badf4157d3
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/home/petr/AndroidStudioProjects/WifiLocator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_afffce29599e89a6b13921f75a9acf82716c4c4c/classes.dex
-base.1=/home/petr/AndroidStudioProjects/WifiLocator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_afffce29599e89a6b13921f75a9acf82716c4c4c
-file.0=/home/petr/AndroidStudioProjects/WifiLocator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ae8acaaad7fbb4c7905cd57d15b9e6badf4157d3/classes.dex
+#Wed Oct 18 19:15:31 CEST 2017
+base.0=/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0efe2ca6aaa21a91f86063082981a58b2cf4c154
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8a173a8512e06edf26cf9040d60caa419537ca12/classes.dex
+base.1=/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8a173a8512e06edf26cf9040d60caa419537ca12
+file.0=/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0efe2ca6aaa21a91f86063082981a58b2cf4c154/classes.dex

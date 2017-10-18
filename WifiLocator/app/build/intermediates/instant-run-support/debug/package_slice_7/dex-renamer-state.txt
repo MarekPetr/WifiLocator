@@ -1,4 +1,4 @@
-#Wed Oct 18 10:49:00 CEST 2017
-base.0=/home/petr/AndroidStudioProjects/WifiLocator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
+#Wed Oct 18 19:15:31 CEST 2017
+base.0=/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7
 renamed.0=classes.dex
-file.0=/home/petr/AndroidStudioProjects/WifiLocator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex
+file.0=/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex
