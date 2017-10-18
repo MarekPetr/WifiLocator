@@ -18,7 +18,6 @@
      android:layout_below="@+id/colored_bar">
     </ImageView>
 
-
     <View
      android:id="@+id/colored_bar"
      android:layout_width="match_parent"
