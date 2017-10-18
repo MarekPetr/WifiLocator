@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/petr/AndroidStudioProjects/WifiLocator/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/petr/AndroidStudioProjects/WifiLocator/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/petr/AndroidStudioProjects/WifiLocator/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/home/petr/AndroidStudioProjects/WifiLocator/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    }
+]

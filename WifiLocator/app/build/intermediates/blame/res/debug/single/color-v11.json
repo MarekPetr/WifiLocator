@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/petr/AndroidStudioProjects/WifiLocator/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/petr/.android/build-cache/7131fcf21a4af7d67b4d7ba95fa0c83d366e35ba/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/petr/AndroidStudioProjects/WifiLocator/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/petr/.android/build-cache/7131fcf21a4af7d67b4d7ba95fa0c83d366e35ba/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
