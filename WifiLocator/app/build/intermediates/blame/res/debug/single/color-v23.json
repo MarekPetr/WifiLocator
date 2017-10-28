@@ -1,17 +1,5 @@
 [
     {
-        "merged": "/home/petr/AndroidStudioProjects/WifiLocator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
-        "source": "/home/petr/.android/build-cache/7131fcf21a4af7d67b4d7ba95fa0c83d366e35ba/output/res/color-v23/abc_tint_default.xml"
-    },
-    {
-        "merged": "/home/petr/AndroidStudioProjects/WifiLocator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
-        "source": "/home/petr/.android/build-cache/7131fcf21a4af7d67b4d7ba95fa0c83d366e35ba/output/res/color-v23/abc_tint_edittext.xml"
-    },
-    {
-        "merged": "/home/petr/AndroidStudioProjects/WifiLocator/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
-        "source": "/home/petr/.android/build-cache/7131fcf21a4af7d67b4d7ba95fa0c83d366e35ba/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
-    },
-    {
         "merged": "/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
         "source": "/home/petr/.android/build-cache/7131fcf21a4af7d67b4d7ba95fa0c83d366e35ba/output/res/color-v23/abc_tint_seek_thumb.xml"
     },
@@ -20,40 +8,16 @@
         "source": "/home/petr/.android/build-cache/7131fcf21a4af7d67b4d7ba95fa0c83d366e35ba/output/res/color-v23/abc_tint_spinner.xml"
     },
     {
-        "merged": "/home/petr/AndroidStudioProjects/WifiLocator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
-        "source": "/home/petr/.android/build-cache/7131fcf21a4af7d67b4d7ba95fa0c83d366e35ba/output/res/color-v23/abc_tint_seek_thumb.xml"
-    },
-    {
         "merged": "/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
         "source": "/home/petr/.android/build-cache/c45dd717e84d289531cab1c2f12391478017b6e8/output/res/color-v23/design_tint_password_toggle.xml"
-    },
-    {
-        "merged": "/home/petr/AndroidStudioProjects/WifiLocator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
-        "source": "/home/petr/.android/build-cache/7131fcf21a4af7d67b4d7ba95fa0c83d366e35ba/output/res/color-v23/abc_tint_spinner.xml"
-    },
-    {
-        "merged": "/home/petr/AndroidStudioProjects/WifiLocator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
-        "source": "/home/petr/.android/build-cache/7131fcf21a4af7d67b4d7ba95fa0c83d366e35ba/output/res/color-v23/abc_tint_switch_thumb.xml"
     },
     {
         "merged": "/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
         "source": "/home/petr/.android/build-cache/7131fcf21a4af7d67b4d7ba95fa0c83d366e35ba/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/home/petr/AndroidStudioProjects/WifiLocator/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
-        "source": "/home/petr/.android/build-cache/c45dd717e84d289531cab1c2f12391478017b6e8/output/res/color-v23/design_tint_password_toggle.xml"
-    },
-    {
         "merged": "/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
         "source": "/home/petr/.android/build-cache/7131fcf21a4af7d67b4d7ba95fa0c83d366e35ba/output/res/color-v23/abc_tint_btn_checkable.xml"
-    },
-    {
-        "merged": "/home/petr/AndroidStudioProjects/WifiLocator/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
-        "source": "/home/petr/.android/build-cache/7131fcf21a4af7d67b4d7ba95fa0c83d366e35ba/output/res/color-v23/abc_color_highlight_material.xml"
-    },
-    {
-        "merged": "/home/petr/AndroidStudioProjects/WifiLocator/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
-        "source": "/home/petr/.android/build-cache/7131fcf21a4af7d67b4d7ba95fa0c83d366e35ba/output/res/color-v23/abc_btn_colored_text_material.xml"
     },
     {
         "merged": "/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
@@ -64,20 +28,12 @@
         "source": "/home/petr/.android/build-cache/7131fcf21a4af7d67b4d7ba95fa0c83d366e35ba/output/res/color-v23/abc_tint_default.xml"
     },
     {
-        "merged": "/home/petr/AndroidStudioProjects/WifiLocator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
-        "source": "/home/petr/.android/build-cache/7131fcf21a4af7d67b4d7ba95fa0c83d366e35ba/output/res/color-v23/abc_tint_switch_track.xml"
-    },
-    {
         "merged": "/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
         "source": "/home/petr/.android/build-cache/7131fcf21a4af7d67b4d7ba95fa0c83d366e35ba/output/res/color-v23/abc_tint_switch_thumb.xml"
     },
     {
         "merged": "/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
         "source": "/home/petr/.android/build-cache/7131fcf21a4af7d67b4d7ba95fa0c83d366e35ba/output/res/color-v23/abc_btn_colored_text_material.xml"
-    },
-    {
-        "merged": "/home/petr/AndroidStudioProjects/WifiLocator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
-        "source": "/home/petr/.android/build-cache/7131fcf21a4af7d67b4d7ba95fa0c83d366e35ba/output/res/color-v23/abc_tint_btn_checkable.xml"
     },
     {
         "merged": "/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",

@@ -1,9 +1,21 @@
 <resources>
     <string name="app_name">WifiLocator</string>
-
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-
     <string name="action_settings">Settings</string>
     <string name="zoom_tip">Mapu přiblížíte dvěma prsty.</string>
+
+    <string name="login">Přihlášení</string>
+    <string name="prompt_name">Jméno</string>
+    <string name="prompt_surname">Příjmení</string>
+
+    <string name="prompt_nick">Přezdívka (nepovinné)</string>
+    <string name="action_sign_in">Přihlásit se</string>
+    <string name="error_field_required">Pole je povinné</string>
+    <string name="error_invalid_nick">Přezdívka je příliš dlouhá</string>
+    <string name="error_invalid_name">Napište celé jméno</string>
+
+    <item name="visible" type="id"/>
+    <item name="masked" type="id"/>
 </resources>
+

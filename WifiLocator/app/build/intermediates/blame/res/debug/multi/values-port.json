@@ -1,29 +1,5 @@
 [
     {
-        "outputFile": "/home/petr/AndroidStudioProjects/WifiLocator/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 55,
-                    "endOffset": 106
-                },
-                "from": {
-                    "file": "/home/petr/.android/build-cache/7131fcf21a4af7d67b4d7ba95fa0c83d366e35ba/output/res/values-port/values-port.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 55,
-                        "endOffset": 106
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
         "map": [
             {

@@ -1,15 +1,7 @@
 [
     {
-        "merged": "/home/petr/AndroidStudioProjects/WifiLocator/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
-        "source": "/home/petr/AndroidStudioProjects/WifiLocator/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
-    },
-    {
         "merged": "/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
         "source": "/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/home/petr/AndroidStudioProjects/WifiLocator/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
-        "source": "/home/petr/AndroidStudioProjects/WifiLocator/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
         "merged": "/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",

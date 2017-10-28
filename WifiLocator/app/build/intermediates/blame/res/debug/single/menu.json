@@ -1,18 +1,10 @@
 [
     {
-        "merged": "/home/petr/AndroidStudioProjects/WifiLocator/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
-        "source": "/home/petr/AndroidStudioProjects/WifiLocator/app/src/main/res/menu/activity_main_drawer.xml"
-    },
-    {
         "merged": "/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/build/intermediates/res/merged/debug/menu/main.xml",
         "source": "/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/src/main/res/menu/main.xml"
     },
     {
         "merged": "/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
         "source": "/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/src/main/res/menu/activity_main_drawer.xml"
-    },
-    {
-        "merged": "/home/petr/AndroidStudioProjects/WifiLocator/app/build/intermediates/res/merged/debug/menu/main.xml",
-        "source": "/home/petr/AndroidStudioProjects/WifiLocator/app/src/main/res/menu/main.xml"
     }
 ]
