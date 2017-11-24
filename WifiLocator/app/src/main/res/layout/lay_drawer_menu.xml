@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_drawer_menu"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:animateLayoutChanges="true"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:background="@drawable/edit_text_with_border"
+        android:orientation="horizontal"
+        android:layout_marginLeft="15dp"
+        android:layout_marginStart="15dp">
+
+        <EditText
+            android:id="@+id/inputSearch"
+            android:layout_width="160dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginStart="10dp"
+            android:inputType="textVisiblePassword"
+            android:maxLines="1"
+            android:layout_weight="1"/>
+
+        <Button
+            android:id="@+id/searchButton"
+            android:layout_width="75dp"
+            android:layout_height="match_parent"
+            android:background="@drawable/button_with_border"
+            android:layout_weight="1"
+            android:text="VYHLEDAT"
+            android:textColor="@color/colorWhite"/>
+    </LinearLayout>
+
+    <!-- List View -->
+    <ListView
+        android:id="@+id/list_view"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:choiceMode="singleChoice"
+        android:layout_marginTop="10dp"
+        android:divider="@color/colorDivider"
+        android:dividerHeight="1dp"/>
+
+</LinearLayout>

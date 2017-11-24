@@ -28,20 +28,20 @@
             android:id="@+id/name_login_form"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical">
+            android:orientation="vertical"
+            android:weightSum="1">
 
 
             <android.support.design.widget.TextInputLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content">
                 <EditText
-                    android:id="@+id/surname"
+                    android:id="@+id/email"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:hint="@string/prompt_surname"
-                    android:inputType="textPersonName"
-                    android:maxLines="1"
-                    android:maxLength="10"/>
+                    android:hint="@string/prompt_email"
+                    android:inputType="textEmailAddress"
+                    android:maxLines="1"/>
             </android.support.design.widget.TextInputLayout>
 
 
@@ -49,40 +49,49 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content">
                 <EditText
-                    android:id="@+id/name"
+                    android:id="@+id/password"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:hint="@string/prompt_name"
-                    android:inputType="textPersonName"
-                    android:maxLines="1"
-                    android:maxLength="10"/>
-            </android.support.design.widget.TextInputLayout>
-
-
-            <android.support.design.widget.TextInputLayout
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content">
-                <EditText
-                    android:id="@+id/nick"
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:hint="@string/prompt_nick"
-                    android:inputType="text"
-                    android:maxLines="1"
-                    android:maxLength="8" />
+                    android:hint="@string/prompt_password"
+                    android:imeActionLabel="@string/action_sign_in_short"
+                    android:imeOptions="actionUnspecified"
+                    android:inputType="textPassword"
+                    android:maxLines="1"/>
             </android.support.design.widget.TextInputLayout>
 
 
             <Button
                 android:id="@+id/sign_in_button"
                 style="@style/Widget.AppCompat.Button.Colored"
-                android:textStyle="bold"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
-                android:layout_marginTop="16dp"
                 android:layout_gravity="center"
+                android:layout_marginTop="16dp"
                 android:text="@string/action_sign_in"
                 android:textColor="@android:color/white"
+                android:textStyle="bold"
+                android:theme="@style/Login.Button" />
+
+            <TextView
+                android:id="@+id/account_task"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ještě nemáte účet?"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="5dp" />
+
+            <Button
+                android:id="@+id/create_acc_button"
+                style="@style/Widget.AppCompat.Button.Colored"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="0dp"
+                android:layout_weight="0.28"
+                android:elevation="0dp"
+                android:text="@string/action_create_acc"
+                android:textColor="@android:color/white"
+                android:textStyle="bold"
                 android:theme="@style/Login.Button" />
 
         </LinearLayout>

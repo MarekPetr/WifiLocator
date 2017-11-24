@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:descendantFocusability="blocksDescendants" >
+
+    <!-- Product Name -->
+    <TextView android:id="@+id/product_name"
+        android:layout_width="180dp"
+        android:layout_height="fill_parent"
+        android:padding="10dp"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="@color/colorWhite"
+        android:layout_weight="1"/>
+
+    <CheckBox
+        android:button="@null"
+        android:checked="false"
+        android:layout_width="0dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="1"
+        android:shadowColor="@color/colorLightGray"
+        android:drawableRight="@drawable/radio_select"
+        android:drawableEnd="@drawable/radio_select"/>
+</LinearLayout>

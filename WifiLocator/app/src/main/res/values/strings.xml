@@ -9,11 +9,20 @@
     <string name="prompt_name">Jméno</string>
     <string name="prompt_surname">Příjmení</string>
 
-    <string name="prompt_nick">Přezdívka (nepovinné)</string>
+    <string name="register">Registrace</string>
+    <string name="action_create_acc">Vytvořit účet</string>
     <string name="action_sign_in">Přihlásit se</string>
+    <string name="action_register">Zaregistrovat se</string>
     <string name="error_field_required">Pole je povinné</string>
     <string name="error_invalid_nick">Přezdívka je příliš dlouhá</string>
     <string name="error_invalid_name">Napište celé jméno</string>
+
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Heslo</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
 
     <item name="visible" type="id"/>
     <item name="masked" type="id"/>

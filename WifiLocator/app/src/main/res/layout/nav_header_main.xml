@@ -1,35 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="@dimen/nav_header_height"
-    android:background="@drawable/side_nav_bar"
-    android:gravity="bottom"
+    android:layout_height="125dp"
+    android:background="@color/colorDrawer"
+    android:gravity="top"
     android:orientation="vertical"
-    android:paddingBottom="@dimen/activity_vertical_margin"
-    android:paddingLeft="@dimen/activity_horizontal_margin"
-    android:paddingRight="@dimen/activity_horizontal_margin"
-    android:paddingTop="@dimen/activity_vertical_margin"
     android:theme="@style/ThemeOverlay.AppCompat.Dark">
 
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:paddingTop="@dimen/nav_header_vertical_spacing"
-        app:srcCompat="@android:drawable/sym_def_app_icon" />
-
-    <TextView
+    <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:paddingTop="@dimen/nav_header_vertical_spacing"
-        android:text="Android Studio"
-        android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
+        android:layout_height="match_parent"
+        android:layout_marginLeft="15dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="15dp">
 
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="android.studio@android.com" />
+        <TextView
+            android:id="@+id/Name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Jméno Příjmení"
+            android:textColor="@color/colorWhite"/>
 
-</LinearLayout>
+        <Switch
+            android:id="@+id/SwitchView"
+            style="@style/CustomSwitch"
+            android:layout_width="60dp"
+            android:layout_height="30dp"
+            android:layout_below="@+id/Name"
+            android:layout_marginTop="12dp"
+            android:checked="true"
+            tools:checked="true"
+            android:state_checked="true"
+            android:textColor="@color/colorWhite"
+            android:text=""
+            android:switchMinWidth="50dp"/>
+
+
+        <TextView
+            android:id="@+id/stateTextView"
+            android:text="ONLINE"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorWhite"
+            android:layout_alignBaseline="@+id/SwitchView"
+            android:layout_alignBottom="@+id/SwitchView"
+            android:layout_toRightOf="@+id/SwitchView"
+            android:layout_toEndOf="@+id/SwitchView"
+            android:layout_marginLeft="15dp"
+            android:layout_marginStart="15dp" />
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+        <View
+            android:id="@+id/colored_bar"
+            android:layout_width="match_parent"
+            android:layout_height="25dp"
+            android:background="@color/colorBlue" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="25dp"
+            android:gravity="center"
+            android:text="SPOLUŽÁCI ONLINE"
+            android:textColor="@color/colorWhite" />
+    </RelativeLayout>
+</RelativeLayout>

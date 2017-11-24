@@ -18,9 +18,8 @@ import android.widget.EditText;
 
 public class LoginActivity extends AppCompatActivity {
 
-    private EditText mNameView;
-    private EditText mSurNameView;
-    private EditText mNickView;
+    private EditText mEmailView;
+    private EditText mPasswordView;
 
 
     @Override
@@ -28,11 +27,19 @@ public class LoginActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
 
-        mNameView = (EditText) findViewById(R.id.name);
-        mSurNameView = (EditText) findViewById(R.id.surname);
-        mNickView = (EditText) findViewById(R.id.nick);
+        mEmailView = (EditText) findViewById(R.id.email);
+        mPasswordView = (EditText) findViewById(R.id.password);
 
         Button mSignInButton = (Button) findViewById(R.id.sign_in_button);
+        Button mCreateAccButton = (Button) findViewById(R.id.create_acc_button);
+
+
+        mCreateAccButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                createAcc();
+            }
+        });
 
         mSignInButton.setOnClickListener(new View.OnClickListener() {
         @Override
@@ -45,31 +52,28 @@ public class LoginActivity extends AppCompatActivity {
 
     private void attemptLogin() {
 
-
         // Reset errors.
-        mNameView.setError(null);
-        mSurNameView.setError(null);
-        mNickView.setError(null);
+        mEmailView.setError(null);
+        mPasswordView.setError(null);
 
         // Store values at the time of the login attempt.
-        String name = mNameView.getText().toString();
-        String surName = mSurNameView.getText().toString();
-        String nick = mNickView.getText().toString();
+        String email = mEmailView.getText().toString();
+        String password = mPasswordView.getText().toString();
 
         boolean cancel = false;
         View focusView = null;
 
         // Check for a valid surname, if the user entered one.
-        if (TextUtils.isEmpty(surName)) {
-            mSurNameView.setError(getString(R.string.error_field_required));
-            focusView = mSurNameView;
+        if (TextUtils.isEmpty(password)) {
+            mPasswordView.setError(getString(R.string.error_field_required));
+            focusView = mPasswordView;
             cancel = true;
         }
 
         // Check for a valid name.
-        if (TextUtils.isEmpty(name)) {
-            mNameView.setError(getString(R.string.error_field_required));
-            focusView = mNameView;
+        if (TextUtils.isEmpty(email)) {
+            mEmailView.setError(getString(R.string.error_field_required));
+            focusView = mEmailView;
             cancel = true;
         }
 
@@ -83,9 +87,14 @@ public class LoginActivity extends AppCompatActivity {
             editor.putBoolean("logged", true);
             editor.apply();
 
-            Intent i = new Intent(this, MainActivity.class);
+            Intent i= new Intent(this, MainActivity.class);
             startActivity(i);
-            finish(); // close login activity
+            finish();
         }
+    }
+
+    private void createAcc() {
+        Intent i = new Intent(this, RegisterActivity.class);
+        startActivity(i);
     }
 }

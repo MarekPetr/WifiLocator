@@ -17,7 +17,29 @@
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 
     <style name="Login.Button" parent="ThemeOverlay.AppCompat">
-        <item name="colorAccent">@color/blue</item>
+        <item name="colorAccent">@color/colorBlue</item>
+    </style>
+
+    <style name="CustomSwitch">
+        <!-- NOTE this way the switch will be as width as required minimally -->
+        <item name="android:switchMinWidth">0dp</item>
+        <item name="android:track">@drawable/solid_switch_track</item>
+        <item name="android:thumb">@drawable/solid_thumb_selector</item>
+        <item name="android:textOff">""</item>
+        <item name="android:textOn">""</item>
+        <!-- NOTE if set to 0dp, the thumb was not visible even with padding
+                  of the thumb drawable set to -->
+        <item name="android:thumbTextPadding">@dimen/switch_thumb_radius</item>-->
+        <!--<item name="android:thumbTextPadding">0dp</item>-->
+    </style>
+
+    <style name="MyRadioButton" parent="Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="colorAccent">@color/colorWhite</item>
+        <item name="colorControlHighlight">@color/colorGray</item>
+        <item name="android:colorPressedHighlight">@color/colorBlue</item>
+        <item name="colorPrimaryDark">@color/colorLightGray</item>
+        <item name="colorPrimary">@color/colorRed</item>
+        <item name="colorControlActivated">@color/colorGreen</item>
     </style>
 
 </resources>

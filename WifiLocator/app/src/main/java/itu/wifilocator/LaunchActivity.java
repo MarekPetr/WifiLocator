@@ -18,6 +18,9 @@ public class LaunchActivity extends Activity {
 
         SharedPreferences pref = PreferenceManager.getDefaultSharedPreferences(this);
 
+        Intent first_intent = new Intent(this, LoginActivity.class);
+        startActivity(first_intent);
+
         if (!pref.contains("logged")) {
             Intent i = new Intent(this, LoginActivity.class);
             startActivity(i);
@@ -25,7 +28,8 @@ public class LaunchActivity extends Activity {
         else {
             Intent i = new Intent(this, MainActivity.class);
             startActivity(i);
+            finish();
         }
-        finish();
+
     }
 }
