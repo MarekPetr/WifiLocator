@@ -2,5 +2,9 @@
     {
         "merged": "/home/petr/AndroidStudioProjects/WifiLocator 18.11./WifiLocator/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
         "source": "/home/petr/.android/build-cache/c45dd717e84d289531cab1c2f12391478017b6e8/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/home/petr/.android/build-cache/c45dd717e84d289531cab1c2f12391478017b6e8/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
     }
 ]

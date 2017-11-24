@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/home/petr/.android/build-cache/7131fcf21a4af7d67b4d7ba95fa0c83d366e35ba/output/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
         "merged": "/home/petr/AndroidStudioProjects/WifiLocator 18.11./WifiLocator/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
         "source": "/home/petr/.android/build-cache/7131fcf21a4af7d67b4d7ba95fa0c83d366e35ba/output/res/layout-v16/notification_template_custom_big.xml"
     }

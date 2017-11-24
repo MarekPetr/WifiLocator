@@ -4,6 +4,10 @@
         "source": "/home/petr/AndroidStudioProjects/WifiLocator 18.11./WifiLocator/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
+        "merged": "/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/radio_off.png",
+        "source": "/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/src/main/res/mipmap-xxhdpi/radio_off.png"
+    },
+    {
         "merged": "/home/petr/AndroidStudioProjects/WifiLocator 18.11./WifiLocator/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/studio_asset.png",
         "source": "/home/petr/AndroidStudioProjects/WifiLocator 18.11./WifiLocator/app/src/main/res/mipmap-xxhdpi/studio_asset.png"
     },
@@ -12,8 +16,24 @@
         "source": "/home/petr/AndroidStudioProjects/WifiLocator 18.11./WifiLocator/app/src/main/res/mipmap-xxhdpi/online_icon.png"
     },
     {
+        "merged": "/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/online_icon.png",
+        "source": "/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/src/main/res/mipmap-xxhdpi/online_icon.png"
+    },
+    {
         "merged": "/home/petr/AndroidStudioProjects/WifiLocator 18.11./WifiLocator/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/radio_on.png",
         "source": "/home/petr/AndroidStudioProjects/WifiLocator 18.11./WifiLocator/app/src/main/res/mipmap-xxhdpi/radio_on.png"
+    },
+    {
+        "merged": "/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/radio_on.png",
+        "source": "/home/petr/AndroidStudioProjects/Git-ITU/WifiLocator/WifiLocator/app/src/main/res/mipmap-xxhdpi/radio_on.png"
     },
     {
         "merged": "/home/petr/AndroidStudioProjects/WifiLocator 18.11./WifiLocator/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",

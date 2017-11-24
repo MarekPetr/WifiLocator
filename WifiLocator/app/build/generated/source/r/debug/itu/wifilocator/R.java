@@ -3635,6 +3635,8 @@ containing a value of this type.
         public static final int Base_Widget_AppCompat_Toolbar_Button_Navigation=0x7f090085;
         public static final int Base_Widget_Design_AppBarLayout=0x7f0900d5;
         public static final int Base_Widget_Design_TabLayout=0x7f0900d6;
+        /** <item name="android:thumbTextPadding">0dp</item>
+         */
         public static final int CustomSwitch=0x7f0900d7;
         public static final int Login_Button=0x7f0900d8;
         public static final int MyRadioButton=0x7f0900d9;
